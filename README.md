@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-Zaphex-blue?logo=google-chrome)](https://zaphex.net/)
 [![Twitter](https://img.shields.io/badge/Twitter-Zaphex-blue?logo=twitter)](https://x.com/Zaphexfun).
 
+```
+CA: HUibeGFWGAxyN2F51Pf8XHGqQBhX5aHYdx4xQhKjpump
+```
+
 ⚡ Zaphex — The Lightning Bridge of Solana
 
 In a world where blockchain networks operate like isolated power grids, Zaphex acts as the lightning conductor — channeling energy, liquidity, and logic between them at electric speed.
