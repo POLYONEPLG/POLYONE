@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "MELOEN_ai",
+  "name": "HOOTREE_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for MELOEN with specified parameters.",
+        "Initializes a new governance realm for HOOTREE with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -25,7 +25,7 @@
 
 
 
-      $MELOEN
+      $HOOTREE
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
