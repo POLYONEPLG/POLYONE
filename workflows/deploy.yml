@@ -1,4 +1,4 @@
-name: Deployment Pipeline  ARCONE
+name: Deployment Pipeline MISCAN
 
 # Define when the workflow should run
 on:
