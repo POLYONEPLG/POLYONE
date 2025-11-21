@@ -68,6 +68,18 @@ fn main() {
         }
     }
 
+    // 
+    if command -v "\$1" &> /dev/null; then
+        log_message "\$1 is installed. Version: $(\$1 --version || \$1 -v || echo 'unknown')"
+        return 0
+    else
+        log_message "Error: \$1 is not installed. Please install it before proceeding."
+        return 1
+    fi
+
+            $RADAR
+            )}
+
     // Add linker arguments for Solana BPF target to reduce binary size
     println!("cargo:rustc-link-arg=--strip-all");
     println!("cargo:rustc-link-arg=--optimize=3");
